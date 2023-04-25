@@ -5,7 +5,7 @@ You can see the fork button in the top right corner of every GitHub project; cli
 
 <img width="612" alt="github fork" src="https://user-images.githubusercontent.com/10578605/157998981-4bfd1f83-825c-4664-b22d-b2c7d471dc70.png">
 
-After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely!
+After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely!!
 
 # After you fork and clone:
 
